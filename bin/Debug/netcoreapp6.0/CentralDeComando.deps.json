@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CentralDeComando/1.0.0": {
+        "runtime": {
+          "CentralDeComando.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CentralDeComando/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/bin/Debug/netcoreapp6.0/CentralDeComando
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/bin/Debug/netcoreapp6.0/CentralDeComando.deps.json
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/bin/Debug/netcoreapp6.0/CentralDeComando.runtimeconfig.json
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/bin/Debug/netcoreapp6.0/CentralDeComando.dll
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/bin/Debug/netcoreapp6.0/ref/CentralDeComando.dll
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/bin/Debug/netcoreapp6.0/CentralDeComando.pdb
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/CentralDeComando.csproj.AssemblyReference.cache
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/CentralDeComando.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/CentralDeComando.AssemblyInfoInputs.cache
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/CentralDeComando.AssemblyInfo.cs
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/CentralDeComando.csproj.CoreCompileInputs.cache
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/CentralDeComando.dll
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/ref/CentralDeComando.dll
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/CentralDeComando.pdb
+/home/runner/2022-2-AED-I-Projeto-2-aed1-2023-2-A-1/obj/Debug/netcoreapp6.0/CentralDeComando.genruntimeconfig.cache
